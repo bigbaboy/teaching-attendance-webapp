@@ -1,6 +1,8 @@
 # Teaching Attendance Web App
 ### Điểm danh suất dạy · Interactive portfolio demo
 
+**[▶ Open live demo](https://bigbaboy.github.io/teaching-attendance-webapp/)** · [View source](index.html)
+
 A responsive Vietnamese web interface for recording teaching sessions by teacher, date, location and subject.
 
 ## What you can try
